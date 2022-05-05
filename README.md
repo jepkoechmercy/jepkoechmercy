@@ -31,8 +31,8 @@ Here are some ideas to get you started:
 🌱 I’m a software engineer
 👨‍💻  I enjoy writing software,talking to people and learning new things!! </br>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=Nkoech123&show_icons=true&hide_border=true)&nbsp;&nbsp;
-![Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nkoech123&layout=compact&langs_count=8&hide_border=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=jepkoechmercy&show_icons=true&hide_border=true)&nbsp;&nbsp;
+![Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=jepkoechmercy&layout=compact&langs_count=8&hide_border=true)
 <br />
 
 **Technologies and Tools**  
