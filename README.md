@@ -15,25 +15,21 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://www.linkedin.com/in/nicholas-koech-74990010a/">
+<a href="https://www.linkedin.com/in/mercy-jepkoech-a889411ab/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ke">
   <img align="left" width="24px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg"  />
 </a>
-<a href="https://twitter.com/Nichola12870777">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="mailto:mailtonicholask320@gmail.com">
+<a href="mailto:mailtojepkoechmercy32@gmail.com">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 
-<a href="https://medium.com/@nicholaskipchumba">
+<a href="">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 
 <br />
 
 ### About Me 🚀
-🌱 I’m a software/data engineer and a recent UC Berkeley graduate with
-   a BS. in  Civil Engineering(minor Data Science). </br>
-👨‍💻  I enjoy writing software, working with data, talking to people and learning new things!! </br>
+🌱 I’m a software engineer
+👨‍💻  I enjoy writing software,talking to people and learning new things!! </br>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Nkoech123&show_icons=true&hide_border=true)&nbsp;&nbsp;
 ![Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nkoech123&layout=compact&langs_count=8&hide_border=true)
@@ -41,16 +37,7 @@ Here are some ideas to get you started:
 
 **Technologies and Tools**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Nkoech123.Nkoech123)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=jepkoechmercy.jepkoechmercy)
