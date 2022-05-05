@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Nicholas Koech(He/Him)!](https://www.linkedin.com/in/nicholas-koech-74990010a/) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Jepkoech Mercy(She/Her)!](https://www.linkedin.com/in/mercy-jepkoech-a889411ab/?original_referer=https%3A%2F%2Fwww%2Egoogle%2Ecom%2F&originalSubdomain=ke) 
 <!--
 **Nkoech123/Nkoech123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
