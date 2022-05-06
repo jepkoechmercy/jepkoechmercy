@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a software engineer
+🌱 I’m a software developer.
 👨‍💻  I enjoy writing software,talking to people and learning new things!! </br>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=jepkoechmercy&show_icons=true&hide_border=true)&nbsp;&nbsp;
